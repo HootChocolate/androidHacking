@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/jay/treinamento/android_hacking/projeto/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+2793714055.index
